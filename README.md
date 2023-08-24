@@ -1,1 +1,1 @@
-# my_project
+String Concatenation Project for patika.dev course on Rust !
